@@ -5,7 +5,7 @@ This can be used for google mobile based authentication systems. You can integra
 
 ## Project description
 Name: googleAuth <br>
-Fronted Language: HTML, CSS, JS <br>
+Fronted Language: HTML, CSS<br>
 Backend : PHP <br>
 Platform: WEB <br>
 Project No: 13 <br>
@@ -13,7 +13,7 @@ Year: 2019
 
 
 ## Demo Video
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/dIQwkALpu0g/0.jpg)](http://www.youtube.com/watch?v=dIQwkALpu0g "shopee-mart || e-commerce web application") -->
+<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/dIQwkALpu0g/0.jpg)](http://www.youtube.com/watch?v=dIQwkALpu0g "googleAuth || authentication system") -->
 
 ## Screen shot
 ### Home
