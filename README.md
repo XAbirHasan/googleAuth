@@ -1,5 +1,5 @@
 # googleAuth
- A simple authentication system. (2019 - mini project) 
+A simple authentication system. (2019 - mini project) 
 This can be used for google mobile based authentication systems. You can integrate this with your project for user authentication.
 
 
@@ -13,7 +13,7 @@ Year: 2019
 
 
 ## Demo Video
-<!-- [![IMAGE ALT TEXT](http://img.youtube.com/vi/dIQwkALpu0g/0.jpg)](http://www.youtube.com/watch?v=dIQwkALpu0g "googleAuth || authentication system") -->
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/1veTzcUFsko/0.jpg)](http://www.youtube.com/watch?v=1veTzcUFsko "googleAuth || authentication system")
 
 ## Screen shot
 ### Home
